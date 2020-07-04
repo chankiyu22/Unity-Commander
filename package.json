@@ -1,0 +1,26 @@
+{
+    "name": "com.chankiyu22.unity-commander",
+    "displayName": "Unity Commander",
+    "version": "0.0.1",
+    "unity": "2018.3",
+    "description": "",
+    "keywords": [
+        "unity",
+        "command",
+        "unity-events"
+    ],
+    "category": "Unity",
+    "files": [
+        "/package.json",
+        "/package.json.meta",
+        "/src",
+        "/src.meta",
+        "/src/Commander.asmdef",
+        "/src/Commander.asmdef.meta"
+    ],
+    "author": {
+        "name": "chankiyu22",
+        "email": "chankiyu22@gmail.com"
+    }
+}
+
